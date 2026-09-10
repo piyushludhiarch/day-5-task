@@ -1,0 +1,12 @@
+INFO Starting application
+INFO Loading configuration
+ERROR Failed to connect to database
+WARN Retrying connection
+INFO Connected successfully
+ERROR NullPointerException in module A
+INFO Processing request 1
+ERROR Timeout while processing request
+INFO Processing request 2
+WARN Deprecated API used
+ERROR Disk space low
+INFO Shutting down application

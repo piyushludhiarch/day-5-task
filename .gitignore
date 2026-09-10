@@ -1,0 +1,5 @@
+target/
+project/target/
+project/project/
+*.class
+metastore_db/
